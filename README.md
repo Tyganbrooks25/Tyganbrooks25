@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tyganbrooks25
+- 👀 I’m interested in All Front end Languages.
+- 🌱 I’m currently learning more Javascript.
+- 📫 Email: Tygan.brooks@outlook.com
